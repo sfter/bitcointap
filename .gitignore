@@ -1,0 +1,17 @@
+*.log
+*.json
+*.py
+!bot.py
+*.html
+*.txt
+!data.txt
+*.js
+env
+session
+sessions
+*.session
+__pycache__
+flows*
+*-*
+disin
+!config.json
